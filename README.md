@@ -1,4 +1,4 @@
-# caffeine for your machine
+# Caffeine for your machine
 Simple python script for keeping your system awake by simulating a keyboard press at regular intervals.
 
 ## Requirements
