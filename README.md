@@ -1,2 +1,2 @@
 # caffeine
-Simple python script for keeping your computer awake.
+Simple python script for keeping your system awake.
